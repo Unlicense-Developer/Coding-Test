@@ -1,16 +1,17 @@
 #include <string>
 #include <vector>
-#include <algorithm>
 
 using namespace std;
 
-int solution(vector<int> numbers) {
+int solution(vector<int> absolutes, vector<bool> signs) {
     int answer = 0;
 
-    for (int i = 0; i < 10; i++)
+    for (int i = 0; i < absolutes.size(); i++)
     {
-        if (find(numbers.begin(), numbers.end(), i) == numbers.end())
-            answer += i;
+        if (signs[i] == true)
+            answer += absolutes[i];
+        else
+            answer -= absolutes[i];
     }
 
     return answer;
