@@ -4,19 +4,14 @@
 
 using namespace std;
 
-vector<int> solution(vector<int> arr, int divisor) {
-    vector<int> answer;
+int solution(vector<int> numbers) {
+    int answer = 0;
 
-    for (int i = 0; i < arr.size(); i++)
+    for (int i = 0; i < 10; i++)
     {
-        if (arr[i] % divisor == 0)
-            answer.push_back(arr[i]);
+        if (find(numbers.begin(), numbers.end(), i) == numbers.end())
+            answer += i;
     }
-
-    if (answer.empty())
-        answer.push_back(-1);
-
-    sort(answer.begin(), answer.end());
 
     return answer;
 }
