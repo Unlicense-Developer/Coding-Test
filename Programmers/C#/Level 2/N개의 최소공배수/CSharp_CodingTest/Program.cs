@@ -23,18 +23,18 @@ namespace CSharp_CodingTest
                 return answer;
             }
 
-            int GCD (int a , int b )
+            int GCD(int a, int b)
             {
                 int temp = 0;
 
-                while( b != 0)
+                while (a != 0)
                 {
-                    temp = a % b;
-                    a = b;
-                    b = temp;
+                    temp = b % a;
+                    b = a;
+                    a = temp;
                 }
 
-                return a;
+                return b;
             }
 
             int[] a = { 2, 6, 8, 14 };
