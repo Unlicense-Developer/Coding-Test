@@ -1,0 +1,15 @@
+C:\Users\Jun\source\repos\CSharp_CodingTest\CSharp_CodingTest\bin\Debug\net7.0\CSharp_CodingTest.exe
+C:\Users\Jun\source\repos\CSharp_CodingTest\CSharp_CodingTest\bin\Debug\net7.0\CSharp_CodingTest.deps.json
+C:\Users\Jun\source\repos\CSharp_CodingTest\CSharp_CodingTest\bin\Debug\net7.0\CSharp_CodingTest.runtimeconfig.json
+C:\Users\Jun\source\repos\CSharp_CodingTest\CSharp_CodingTest\bin\Debug\net7.0\CSharp_CodingTest.dll
+C:\Users\Jun\source\repos\CSharp_CodingTest\CSharp_CodingTest\bin\Debug\net7.0\CSharp_CodingTest.pdb
+C:\Users\Jun\source\repos\CSharp_CodingTest\CSharp_CodingTest\obj\Debug\net7.0\CSharp_CodingTest.csproj.AssemblyReference.cache
+C:\Users\Jun\source\repos\CSharp_CodingTest\CSharp_CodingTest\obj\Debug\net7.0\CSharp_CodingTest.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Jun\source\repos\CSharp_CodingTest\CSharp_CodingTest\obj\Debug\net7.0\CSharp_CodingTest.AssemblyInfoInputs.cache
+C:\Users\Jun\source\repos\CSharp_CodingTest\CSharp_CodingTest\obj\Debug\net7.0\CSharp_CodingTest.AssemblyInfo.cs
+C:\Users\Jun\source\repos\CSharp_CodingTest\CSharp_CodingTest\obj\Debug\net7.0\CSharp_CodingTest.csproj.CoreCompileInputs.cache
+C:\Users\Jun\source\repos\CSharp_CodingTest\CSharp_CodingTest\obj\Debug\net7.0\CSharp_CodingTest.dll
+C:\Users\Jun\source\repos\CSharp_CodingTest\CSharp_CodingTest\obj\Debug\net7.0\refint\CSharp_CodingTest.dll
+C:\Users\Jun\source\repos\CSharp_CodingTest\CSharp_CodingTest\obj\Debug\net7.0\CSharp_CodingTest.pdb
+C:\Users\Jun\source\repos\CSharp_CodingTest\CSharp_CodingTest\obj\Debug\net7.0\CSharp_CodingTest.genruntimeconfig.cache
+C:\Users\Jun\source\repos\CSharp_CodingTest\CSharp_CodingTest\obj\Debug\net7.0\ref\CSharp_CodingTest.dll
