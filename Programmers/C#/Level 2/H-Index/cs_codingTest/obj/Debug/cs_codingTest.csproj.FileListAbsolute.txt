@@ -1,0 +1,7 @@
+C:\Users\EZEN\source\repos\cs_codingTest\cs_codingTest\bin\Debug\cs_codingTest.exe.config
+C:\Users\EZEN\source\repos\cs_codingTest\cs_codingTest\bin\Debug\cs_codingTest.exe
+C:\Users\EZEN\source\repos\cs_codingTest\cs_codingTest\bin\Debug\cs_codingTest.pdb
+C:\Users\EZEN\source\repos\cs_codingTest\cs_codingTest\obj\Debug\cs_codingTest.csproj.AssemblyReference.cache
+C:\Users\EZEN\source\repos\cs_codingTest\cs_codingTest\obj\Debug\cs_codingTest.csproj.CoreCompileInputs.cache
+C:\Users\EZEN\source\repos\cs_codingTest\cs_codingTest\obj\Debug\cs_codingTest.exe
+C:\Users\EZEN\source\repos\cs_codingTest\cs_codingTest\obj\Debug\cs_codingTest.pdb
